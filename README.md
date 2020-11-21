@@ -44,6 +44,10 @@ Build the application
 ```
 npm run dist:linux
 ```
+
+Ezután hibát fog írni, be kell lépni a dist könyvtárba és ott lesz a deb fájl.
+
+
 This will build a predefined AppImage & deb packages in the dist folder. AppImage can be run in most popular linux distributions with the support. Deb is only for debian & ubuntu distributions.
 
 ## Release
